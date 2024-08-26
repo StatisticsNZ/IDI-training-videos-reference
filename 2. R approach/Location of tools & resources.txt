@@ -1,0 +1,20 @@
+The Dataset Assembly Tool using in our R demonstration
+can be downloaded from the SWA GitHub page:
+https://github.com/nz-social-wellbeing-agency/dataset_assembly_tool
+
+The Resources folder and the initial control files,
+as well as the Run assembly script, can be found in
+the IDI Exemplar Project on the SWA GitHub page:
+https://github.com/nz-social-wellbeing-agency/idi_exemplar_project
+
+These files are already available within the secure data lab
+environment. They can be found on the GenData drive in the folders:
+- Dataset Assembly Tool
+- idi_exemplar_project datalab_version
+
+Detailed guidance on using these tools & resources
+is available on the SWA website:
+https://swa.govt.nz/
+And on the Data Lab Commons:
+https://idcommons.discourse.group/
+(requires login)
